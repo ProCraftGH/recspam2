@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("541340014756495372")
+let channel =     client.channels.get("568145400251416601")
 setInterval(function() {
 channel.send(`spam`);
 }, 30)
